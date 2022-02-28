@@ -1,0 +1,40 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.attribution .scan-code {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.attribution div h2 {
+    font-weight: 700;
+}
+
+
+html{
+    background-color: hsl(212, 45%, 89%);
+}
+
+body{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px 15px 15px 15px;
+    height: 30em;
+    width: 19em;
+    position: relative;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+.qr-code img{
+    width: 270px;
+    height: 270px;
+    margin-top: 15px;
+    border-radius: 15px 15px 15px 15px;
+}
